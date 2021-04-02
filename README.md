@@ -1,5 +1,6 @@
 # XPNOLOGY
 This is to just explain the xpenology installation
+referance link [https://xpenology.com/forum/topic/7973-tutorial-installmigrate-dsm-52-to-61x-juns-loader/](https://xpenology.com/forum/topic/7973-tutorial-installmigrate-dsm-52-to-61x-juns-loader/)
 
 ## What do we need ?
 1. An old computer - The Hardware That We Need
