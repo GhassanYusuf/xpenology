@@ -7,9 +7,10 @@ referance link [https://xpenology.com/forum/topic/7973-tutorial-installmigrate-d
 1. An old computer - The Hardware That We Need
 2. Flash Memory 8GB or Above - For Installing And Running Synology
 3. Hard Drives - For Storage
-4. XPENOLOGY OS - Image
-5. OSFmount - Application ***"To Change VID/PID To grub.cfg file"***
-6. Etcher - Application
+4. [XPNOLOGY LOADER - FILES](https://mega.nz/folder/yQpw0YTI#DQqIzUCG2RbBtQ6YieScWg/folder/iJZjAJoa)
+5. [XPNOLOGY OS - Image](https://global.download.synology.com/download/DSM/release/6.1.7/15284/DSM_DS3615xs_15284.pat?model=DS3615xs&bays=12&dsm_version=6.1.7&build_number=15284)
+6. [OSFmount - Application ***"To Change VID/PID To grub.cfg file"***](https://www.osforensics.com/downloads/osfmount.exe)
+7. [Etcher - Application](https://www.balena.io/etcher/)
 
 
 ## Accident Update
